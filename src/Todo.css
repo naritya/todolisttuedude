@@ -1,0 +1,7 @@
+.TodoListWrap{
+    display: flex;
+    justify-content: left;
+    margin-left: 45vw;
+    align-items: center;
+    color: green;
+}
